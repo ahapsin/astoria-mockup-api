@@ -1,0 +1,387 @@
+{
+  "navbar": {
+    "logoCompany": "/logos/logo-astoria.png",
+    "nav": [
+      { "label": "About", "to": "about" },
+      { "label": "Services", "to": "services" },
+      { "label": "Products", "to": "products" },
+      { "label": "Updates", "to": "updates" },
+      { "label": "Careers", "to": "career" },
+      { "label": "FAQ", "to": "faq" }
+    ],
+    "buttonLabel": "Contact Us"
+  },
+  "footer": {
+    "companyName": "PT. Astoria Prima",
+    "labelCta": "Get In Touch",
+    "labelButton": "Say Hello",
+    "address": [
+      {
+        "location": "Head Quarter",
+        "name": "PT Astoria Prima",
+        "addr": "Jalan Pluit Raya No. 11, Penjaringan Jakarta Utara, Daerah Khusus Ibukota Jakarta 14440"
+      },
+      {
+        "location": "Factory",
+        "name": "PT Astoria Prima",
+        "addr": "Jl. Cibeunter No. 8, Kp. Cukanggalih, Desa Cukanggalih, Kec. Curug, Tangerang, Banten 15810"
+      }
+    ],
+    "phone": "+62 818.1818.1718",
+    "email": "cs@astoriaprima.com"
+  },
+  "home": {
+    "scroll": {
+      "greet": "Welcome to",
+      "company": "Astoria Prima",
+      "label": "Get to know us",
+      "content": "We craft high-quality cosmetics to enhance your natural beauty, with every detail from formulation to packaging handled with care.",
+      "buttonCta": "Learn More",
+      "media": "media"
+    },
+    "summary": [
+      {
+        "icon": "tag",
+        "label": "Brands",
+        "value": 1000
+      },
+      {
+        "icon": "product",
+        "label": "Products",
+        "value": 3000
+      },
+      {
+        "icon": "stars-people",
+        "label": "Yout Experience",
+        "value": 40
+      }
+    ],
+    "ideas": {
+      "label": "Your Idea,",
+      "sublabel": "Our Solution,",
+      "carousel": [
+        {
+          "icon": "icon",
+          "label": "label"
+        },
+        {
+          "icon": "icon",
+          "label": "label"
+        },
+        {
+          "icon": "icon",
+          "label": "label"
+        },
+        {
+          "icon": "icon",
+          "label": "label"
+        }
+      ]
+    },
+    "ourProduct": {
+      "title": "Our Product",
+      "content": [
+        {
+          "image": "image",
+          "label": "label"
+        },
+        {
+          "image": "image",
+          "label": "label"
+        },
+        {
+          "image": "image",
+          "label": "label"
+        },
+        {
+          "image": "image",
+          "label": "label"
+        }
+      ]
+    },
+    "ourBeauty": {
+      "title": "Our Beauty Certifications",
+      "cert": ["image1", "image2", "image3", "image4"]
+    },
+    "trust": {
+      "title": "Who Trust Our Expertise",
+      "partner": ["images1", "images2"]
+    },
+    "updated": {
+      "label": "Blogs, News And Updates",
+      "buttonCta": "View More",
+      "image": "images",
+      "titleUpdate": "Komitmen Astoria Prima Mendukung",
+      "dateUpdate": "Jul, 2025",
+      "action": "Read More"
+    }
+  },
+  "about": {
+    "hero": "images hero",
+    "title": "About Us",
+    "descr": "Established in 1980, PT Astoria Prima is a manufacturing company dedicated to delivering innovative solutions that enhance natural beauty and inspire confidence.From decorative cosmetics and facial cleansers to comprehensive skincare lines, we offer thoughtfully curated products designed to meet diverse needs, trusted and cherished by consumers.",
+    "image": "image",
+    "vision": {
+      "label": "The Vision Behind the Beauty",
+      "sublabel": "Becoming a beauty trendsetter for our customers, continuously delivering innovative products, and building long-term partnerships.",
+      "list": [
+        {
+          "label": "Excellence beyond borders.",
+          "sublabel": "Global excellence and trust"
+        },
+        {
+          "label": "Empowering beauty innovation.",
+          "sublabel": "Creating the best experience in product development"
+        },
+        {
+          "label": "Your Partner in beauty.",
+          "sublabel": "High standards in a dynamic beauty industry"
+        }
+      ]
+    },
+    "teams": {
+      "label": "Meet The Team",
+      "list": [
+        {
+          "name": "Joses Tjohjono",
+          "position": "Board Of Director",
+          "image": "image"
+        },
+        {
+          "name": "Joses Tjohjono",
+          "position": "Board Of Director",
+          "image": "image"
+        },
+        {
+          "name": "Joses Tjohjono",
+          "position": "Board Of Director",
+          "image": "image"
+        },
+        {
+          "name": "Joses Tjohjono",
+          "position": "Board Of Director",
+          "image": "image"
+        },
+        {
+          "name": "Joses Tjohjono",
+          "position": "Board Of Director",
+          "image": "image"
+        },
+        {
+          "name": "Joses Tjohjono",
+          "position": "Board Of Director",
+          "image": "image"
+        },
+        {
+          "name": "Joses Tjohjono",
+          "position": "Board Of Director",
+          "image": "image"
+        }
+      ]
+    },
+    "offers": {
+      "image": "image",
+      "label": "All Product",
+      "sublabel": "Discover Astoria’s product collection, developed with innovative raw materials and new formulas, tailored to diverse skin experiences.",
+      "buttonCta": "View More"
+    }
+  },
+  "services": {
+    "hero": "images hero",
+    "title": "Our Services",
+    "descr": "We specialize in manufacturing high-quality skincare and cosmetic products with precision and care. Our services include R&D, formulation, packaging design, filling, and private labeling—all under one roof to ensure consistency and excellence.",
+    "slider": [
+      {
+        "label": "Concept & Design",
+        "sublabel": "Astoria Prima helps create product concepts and packaging designs that align with your brand identity."
+      },
+      {
+        "label": "Concept & Design",
+        "sublabel": "Astoria Prima helps create product concepts and packaging designs that align with your brand identity."
+      },
+      {
+        "label": "Concept & Design",
+        "sublabel": "Astoria Prima helps create product concepts and packaging designs that align with your brand identity."
+      },
+      {
+        "label": "Concept & Design",
+        "sublabel": "Astoria Prima helps create product concepts and packaging designs that align with your brand identity."
+      }
+    ],
+    "discover": {
+      "title": "Bringing Your Vision to Life",
+      "list": [
+        {
+          "title": "Discovery Consultation",
+          "subtitle": "Let's talk about your vision.We begin by understanding your brand, goals, and product ideas. Whether you're starting from scratch or scaling an existing line, we're here to guide you."
+        },
+        {
+          "title": "Discovery Consultation",
+          "subtitle": "Let's talk about your vision.We begin by understanding your brand, goals, and product ideas. Whether you're starting from scratch or scaling an existing line, we're here to guide you."
+        },
+        {
+          "title": "Discovery Consultation",
+          "subtitle": "Let's talk about your vision.We begin by understanding your brand, goals, and product ideas. Whether you're starting from scratch or scaling an existing line, we're here to guide you."
+        },
+        {
+          "title": "Discovery Consultation",
+          "subtitle": "Let's talk about your vision.We begin by understanding your brand, goals, and product ideas. Whether you're starting from scratch or scaling an existing line, we're here to guide you."
+        },
+        {
+          "title": "Discovery Consultation",
+          "subtitle": "Let's talk about your vision.We begin by understanding your brand, goals, and product ideas. Whether you're starting from scratch or scaling an existing line, we're here to guide you."
+        }
+      ]
+    },
+    "offers": {
+      "title": "Power Your Beauty Brand",
+      "buttonCta": "Let's Partner!",
+      "image": "image"
+    }
+  },
+  "products": {
+    "hero": "images hero",
+    "cta": "Inquire Now",
+    "carouselProduct": {
+      "title": "Discover Our Range Products",
+      "list": [
+        {
+          "title": "title",
+          "image": "image product",
+          "detail": {
+            "image": "detail image",
+            "title": "Hair Care",
+            "descr": [
+              {
+                "title": "Hair Care",
+                "content": "Shampoo, Conditioner"
+              },
+              {
+                "title": "Hair Care",
+                "content": "Shampoo, Conditioner"
+              },
+              {
+                "title": "Hair Care",
+                "content": "Shampoo, Conditioner"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "carouselHighlights": {
+      "title": "Product Highlights",
+      "list": ["img", "img", "img"]
+    },
+    "faqProduct": {
+      "title": "Frequently Asked Questions",
+      "subtitle": "If you have more questions",
+      "cta": "please get in touch.",
+      "list": [
+        {
+          "q": "What is Astoria Prima for Cosmetics and Skincare?",
+          "a": "Astoria Prima provides comprehensive cosmetic and skincare production services, from formulation and licensing management to manufacturing and delivery—customized to fit your brand's unique needs."
+        },
+        {
+          "q": "What is Astoria Prima for Cosmetics and Skincare?",
+          "a": "Astoria Prima provides comprehensive cosmetic and skincare production services, from formulation and licensing management to manufacturing and delivery—customized to fit your brand's unique needs."
+        },
+        {
+          "q": "What is Astoria Prima for Cosmetics and Skincare?",
+          "a": "Astoria Prima provides comprehensive cosmetic and skincare production services, from formulation and licensing management to manufacturing and delivery—customized to fit your brand's unique needs."
+        },
+        {
+          "q": "What is Astoria Prima for Cosmetics and Skincare?",
+          "a": "Astoria Prima provides comprehensive cosmetic and skincare production services, from formulation and licensing management to manufacturing and delivery—customized to fit your brand's unique needs."
+        },
+        {
+          "q": "What is Astoria Prima for Cosmetics and Skincare?",
+          "a": "Astoria Prima provides comprehensive cosmetic and skincare production services, from formulation and licensing management to manufacturing and delivery—customized to fit your brand's unique needs."
+        }
+      ]
+    },
+    "offers": {
+      "title": "Need a Custom Formula ?",
+      "cta": "Say Hello",
+      "image": "image cta"
+    }
+  },
+  "updates": {
+    "hero": "images hero",
+    "tab": ["Events", "Articles"],
+    "listEvent": [
+      {
+        "image": "image event",
+        "title": "ASTORIA PRIMA AT COSMOBEAUTE 2025",
+        "slug": "astoria-prima-at-cosmobeaute-2025",
+        "type": "events",
+        "content": "Visit the Astoria Prima booth (October 9-11)",
+        "datePublish": "Des 30, 2025"
+      }
+    ],
+    "listArticles": {
+      "category": ["All", "Formulation", "Regulations", "Trends", "Brand Tips"],
+      "list": [
+        {
+          "image": "image articles",
+          "title": "Retinol vs Retinal: Apa Bedanya dan Mana yang Tepat untuk Kulitm",
+          "slug": "retinol-vs-retinal-apa-bedanya-dan-mana-yang-tepat-untuk-kulitmu",
+          "type": "articles",
+          "category": "Formulation",
+          "content": "Kalau kamu sering membaca tentang skincare, pasti sudah tidak asing dengan istilah retinoid. Bahan aktif ini sering disebut-sebut sebagai “gold standard” untuk melawan tanda penuaan. Tapi di balik nama besarnya, ada banyak turunan retinoid, dan yang paling sering dibicarakan adalah retinol dan retinal.",
+          "datePublish": "Jul 15, 2025"
+        }
+      ]
+    }
+  },
+  "careers": {
+    "hero": "image hero",
+    "title": "Join the Team",
+    "subtitle": "Explore your future with Us. Discover exciting career opportunities and start your professional journey at Astoria Prima.",
+    "locations": ["All Locations", "Kab Tangerang"],
+    "positions": ["All Positions", "Staff"],
+    "list": [
+      {
+        "title":"formulation Chemist",
+        "location":"Kab Tangerang",
+        "position":"Staff",
+        "time":"Full Time",
+        "slug":"formulation-chemist",
+        "image":"image career",
+        "content":"content career"
+      }
+    ]
+  },
+  "faq": {
+    "hero":"image hero",
+    "category":["Product","Service","Career","Partner"],
+    "list":[
+      {
+        "q":"What is Astoria Prima for Cosmetics and Skincare?",
+        "a":"Astoria Prima provides comprehensive cosmetic and skincare production services, from formulation and licensing management to manufacturing and delivery—customized to fit your brand's unique needs.",
+        "type":"Product"
+      },
+      {
+        "q":"What is Astoria Prima for Cosmetics and Skincare?",
+        "a":"Astoria Prima provides comprehensive cosmetic and skincare production services, from formulation and licensing management to manufacturing and delivery—customized to fit your brand's unique needs.",
+        "type":"Product"
+      },
+      {
+        "q":"What is Astoria Prima for Cosmetics and Skincare?",
+        "a":"Astoria Prima provides comprehensive cosmetic and skincare production services, from formulation and licensing management to manufacturing and delivery—customized to fit your brand's unique needs.",
+        "type":"Service"
+      },
+      {
+        "q":"What is Astoria Prima for Cosmetics and Skincare?",
+        "a":"Astoria Prima provides comprehensive cosmetic and skincare production services, from formulation and licensing management to manufacturing and delivery—customized to fit your brand's unique needs.",
+        "type":"Service"
+      }
+    ],
+    "offers":{
+      "image":"image cta",
+      "buttonCta":"Contact Us",
+      "title":"Get in Touch with Us!",
+      "subtitle":"If you have more questions please get in touch."
+    }
+  }
+}
